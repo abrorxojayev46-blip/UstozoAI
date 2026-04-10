@@ -8,11 +8,5 @@
       "source": "/:path*",
       "destination": "/index.html"
     }
-  ],
-  "env": [
-    {
-      "key": "EXPO_PUBLIC_API_URL",
-      "value": ""
-    }
   ]
 }
